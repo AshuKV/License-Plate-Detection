@@ -13,6 +13,11 @@ Automatic License Plate Detection using YOLOv4 and Darknet
 
 ## Approach
 
+- Cities with lakhs of vehicles running on the roads cannot afford the inadequate manual method of license plate detection. 
+- Moving objects can be detected using adaptive background subtraction. 
+- Edge detection algorithm is used to get segmented moving objects. 
+- YOLOv2, YOLOv3, YOLOv4 or COCO dataset can be employed to detect different types of objects.
+- For detecting license plates and extracting the characters several methods have been tested and evaluated, such as OCR, MobileNets and Inception-v3, Open ALPR.
 
 
 ## Result
@@ -36,7 +41,3 @@ Automatic License Plate Detection using YOLOv4 and Darknet
 - A  centroid tracking  method  was  also  proposed  to  reduce  the  number  of false  positives  generated  by  the  helmeted  bikers  when  their helmet is out of video frame.
 - Chances of death due to road accident will reduce.
 - Real-world video surveillance system that can effectively detect moving person using limited resources.
-
-
-
-## Future Work
