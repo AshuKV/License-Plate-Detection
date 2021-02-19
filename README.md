@@ -2,13 +2,13 @@
 Automatic License Plate Detection using YOLOv4 and Darknet
 
 
-## Files And Directories
+## Files
 
 
-```Project_Reddit_Flair.ipynb``` contains the notebook to view the analysis of  COVID19 tweets.
+```Bounding_Box_Visualization.ipynb``` contains the notebook to view the analysis of bounding-box prediction model.
 
 
-```Project_Reddit_Flair.ipynb``` contains the notebook to view the analysis of  COVID19 tweets.
+```Plate_Detection_YOLOV4_Darknet_.ipynb``` contains the notebook to view the best-evaluated Yolov4 model.
 
 
 ## Approach
